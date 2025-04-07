@@ -47,9 +47,9 @@
 
 ### 🧩 Fun Projects
 
-- 🔗 [Project 1 Name](https://github.com/programmingwithshishir/lazy) — *Efficient tool for lazy developer*
-- 🔗 [Project 2 Name](https://github.com/programmingwithshishir/library-attendance) — *Attendance bot for Library*
-- 🔗 [Project 3 Name](https://github.com/programmingwithshishir/bright-heart) — *This project uses a trained model to predict heart disease based on symptoms and readings of data*
+- 🔗 [Lazy](https://github.com/programmingwithshishir/lazy) — *Efficient tool for lazy developer*
+- 🔗 [Attendance](https://github.com/programmingwithshishir/library-attendance) — *Attendance bot for Library*
+- 🔗 [Bright Heart](https://github.com/programmingwithshishir/bright-heart) — *This project uses a trained model to predict heart disease based on symptoms and readings of data*
 
 ---
 
