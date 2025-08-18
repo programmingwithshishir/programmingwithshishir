@@ -9,7 +9,7 @@
 
 ### 🌟 About Me
 
-- 🎓 I'm currently pursuing **BCA**
+- 🎓 I'm currently pursuing **MCA**
 - 💻 Currently working on **awesome open-source and personal projects**
 - 🌱 Learning **Web3, Blockchain, and AI**
 - 🏆 Have won multiple competitions and hackathons
