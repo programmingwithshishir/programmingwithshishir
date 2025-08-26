@@ -49,7 +49,7 @@
 
 - 🔗 [Lazy](https://github.com/programmingwithshishir/lazy) — *Efficient tool for lazy developer*
 - 🔗 [Attendance](https://github.com/programmingwithshishir/library-attendance) — *Attendance bot for Library*
-- 🔗 [Bright Heart](https://github.com/programmingwithshishir/bright-heart) — *This project uses a trained model to predict heart disease based on symptoms and readings of data*
+- 🔗 [Insights](https://github.com/programmingwithshishir/insights) — *A social media app for students (College Project)*
 
 ---
 
