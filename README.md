@@ -39,8 +39,8 @@
 ### 🧩 Fun Projects
 
 - 🔗 [Lazy](https://github.com/programmingwithshishir/lazy) — *Efficient tool for lazy developer*
-- 🔗 [Attendance](https://github.com/programmingwithshishir/library-attendance) — *Attendance bot for Library*
-- 🔗 [Insights](https://github.com/programmingwithshishir/insights) — *A social media app for students (College Project)*
+- 🔗 [Campus Flow](https://github.com/programmingwithshishir/campus-flow) — *A student productivity and routine management app*
+- 🔗 [Insights](https://github.com/programmingwithshishir/insights) — *A social media app for students*
 
 ---
 
